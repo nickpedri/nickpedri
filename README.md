@@ -1,8 +1,8 @@
-### Hello!👋
+# Hello!👋
 #
-# My name is Nick.
+### My name is Nick.
 #
-# I am interested in data science because I enjoy math and statistics, and I am eager to learn to use computers and machine learning to solve problems and analyze data.
+### I am interested in data science because I enjoy math and statistics, and I am eager to learn to use computers and machine learning to solve problems and analyze data.
 <!--
 **nickpedri/nickpedri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
